@@ -1,0 +1,37 @@
+张伟的个人简历
+
+基本信息
+姓名：张伟
+手机：13812345678
+邮箱：zhangwei_dev@example.com
+现居：上海
+工作年限：5年
+
+教育背景
+2017.09 - 2021.06  华东理工大学  计算机科学与技术  本科
+
+工作经历
+一、2021.07 - 至今  某互联网科技公司  后端开发工程师
+- 负责订单交易系统的设计与开发，日均订单量 50 万。
+- 使用 Java + Spring Boot + MyBatis 开发微服务，部署于 Docker + K8s 环境。
+- 参与服务拆分，使用 Spring Cloud 做服务注册与网关。
+- 优化慢 SQL，订单查询接口 RT 从 800ms 降到 120ms。
+- 使用 Redis 做缓存与分布式锁。
+
+二、2020.06 - 2021.06  某软件公司  Java 实习生（实习）
+- 参与企业后台管理系统开发，使用 Spring MVC + MySQL。
+
+专业技能
+- 编程语言：Java（熟练）、Python（了解，做过数据处理脚本）、SQL
+- 框架：Spring、Spring Boot、Spring Cloud、MyBatis
+- 中间件：Redis、Kafka、RabbitMQ、Elasticsearch
+- 运维：Docker、Kubernetes、Linux、Nginx
+- 数据库：MySQL、MongoDB
+- 工具：Git、Maven
+
+项目经历
+1. 订单交易微服务平台（2022.03 - 2023.12）：核心开发，Spring Cloud 微服务架构，K8s 部署，Redis 缓存，日均 50 万订单。
+2. 慢 SQL 优化专项（2023.05）：独立负责，订单库索引重建与 SQL 重写，RT 下降 85%。
+
+证书
+- 软考（软件设计师）
